@@ -1,0 +1,8 @@
+This uses an old metrics but the concept is there
+Run fsmload6_14
+then biomarkers_best_g5
+the IR_Size--Takes a long time to run (10+min)
+
+I looked at the histogram of each biomarker and selected regions populated by
+the peaks.  Some metrics have 2 size metrics if they had 2 distanct bumps in
+the histogrmam.
